@@ -1,0 +1,38 @@
+.bgimg {
+    background-image: url("https://th.bing.com/th/id/R.7c90cb495736ba0c5d7b7422455485a2?rik=tRlPR6XpPGnVPA&riu=http%3a%2f%2fallpicts.in%2fdownload%2f20913%2f2017%2f10%2fHuawei_Mate_10_Pro_Wallpaper_03_of_10_with_Abstract_Light-800x600.jpg&ehk=dljeVAKpC51%2bmG3ave4W0XLRqi4KXFojqXbck2afcNw%3d&risl=&pid=ImgRaw&r=0");
+    height: 120vh;
+    background-size: cover;
+}
+
+.mobilehead {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.layoutcard {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px;
+}
+
+.layoutheading {
+    color: #4b3106;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.ipara {
+    color: rgb(172, 50, 9);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+.ibrand {
+    width: 100px;
+    height: 100px;
+}
